@@ -1,1 +1,2 @@
-test.value=New String. 1
+test:
+  value: New String. 1
